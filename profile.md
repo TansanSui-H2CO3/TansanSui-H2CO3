@@ -3,7 +3,7 @@
 **Hi, I am TansanSui who will be a System Integrator (SIer) in Japan🗾**
 
 ## Education
-- Master of Informatics, The University of Electro-Communications, Tokyo, Japan
+- Master of Engineering, The University of Electro-Communications, Tokyo, Japan
 
 ## Interests
 - Human-Computer Interaction (HCI) -> Human-Agent Interaction (HAI) 👨‍❤️‍👨👩‍❤️‍👨👩‍❤️‍👩
