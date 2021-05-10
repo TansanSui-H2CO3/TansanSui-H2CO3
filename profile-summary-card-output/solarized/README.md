@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/TansanSui-H2CO3/TansanSui-H2CO3/main/profile-summary-card-output/solarized/4-productive-time.svg)
-```
-
-    
