@@ -6,7 +6,7 @@
 - Master of Engineering, The University of Electro-Communications, Tokyo, Japan
 
 ## Interests
-- Human-Computer Interaction (HCI) -> Human-Agent Interaction (HAI) 👨‍❤️‍👨👩‍❤️‍👨👩‍❤️‍👩
+- Human-Computer Interaction (HCI) 👨‍❤️‍👨👩‍❤️‍👨👩‍❤️‍👩
 - Web application 🖥️
 - Machine learning 💻🧠
 - Mechanical parts 🛠️
