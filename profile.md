@@ -1,6 +1,6 @@
 # Profile
 
-**Hi, I am TansanSui who will be a System Integrator (SIer) in Japan🗾**
+**Hi, I am TansanSui who is an IT consultant in Japan🗾**
 
 ## Education
 - Master of Engineering, The University of Electro-Communications, Tokyo, Japan
