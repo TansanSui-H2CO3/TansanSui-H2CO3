@@ -6,7 +6,6 @@
 - Human-Computer Interaction (HCI)
 - Web application
 - Machine learning
-- Mechanical parts
 
 ## Skills
 - Java
